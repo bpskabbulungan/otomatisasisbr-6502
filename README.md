@@ -1,12 +1,12 @@
 ## Otomatisasi Profiling SBR
 
-Perangkat CLI berbasis Playwright untuk membantu pengisian MATCHAPRO (autofill) atau membatalkan submit data Profiling SBR secara aman dan disertai log untuk monitoring.
+Software CLI berbasis Playwright untuk membantu pengisian MATCHAPRO (autofill) Profiling SBR dan disertai log untuk monitoring. 
 
-Otomisasi ini dikembangkan dari Inovasi https://github.com/yuneko11/OtomatisasiSBR.git milik Yuneko (Uul) dari BPS Kabupaten Buru Selatan.
+Otomisasi ini dikembangkan dari inovasi [https://github.com/yuneko11/OtomatisasiSBR.git](https://github.com/yuneko11/OtomatisasiSBR.git) (Yuneko/Uul - BPS Kabupaten Buru Selatan).
 
 ---
 
-### 1. Struktur Folder 
+### 1. Struktur Folder
 
 ```
 .
