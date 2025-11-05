@@ -2,7 +2,7 @@
 
 Software CLI berbasis Playwright untuk membantu pengisian MATCHAPRO (autofill) Profiling SBR dan disertai log untuk monitoring. 
 
-Otomisasi ini dikembangkan dari inovasi [https://github.com/yuneko11/OtomatisasiSBR.git](https://github.com/yuneko11/OtomatisasiSBR.git) (Yuneko/Uul - BPS Kabupaten Buru Selatan).
+Otomatisasi ini dikembangkan dari inovasi [https://github.com/yuneko11/OtomatisasiSBR.git](https://github.com/yuneko11/OtomatisasiSBR.git) (Yuneko/Uul - BPS Kabupaten Buru Selatan).
 
 ---
 
