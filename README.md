@@ -35,7 +35,7 @@ Otomisasi ini dikembangkan dari inovasi [https://github.com/yuneko11/Otomatisasi
    python -m venv .venv
    .\.venv\Scripts\activate
    python -m pip install --upgrade pip
-   pip install pandas playwright
+   pip install pandas playwright openpyxl
    playwright install chromium
    ```
 3. **Jalankan Chrome dengan remote debugging** (wajib agar Playwright bisa menempel ke tab yang sudah login MATCHAPRO):
